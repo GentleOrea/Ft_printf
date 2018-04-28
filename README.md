@@ -3,8 +3,10 @@
 Sujet
 
 • Vous devez recoder la fonction printf de la librairie C.
+
 • Votre fonction s’appelera ft_printf et sera prototypée de la même façon que
 printf.
+
 • Vous ne ferez pas la gestion de buffer présente dans la fonction printf de la librairie
 C.
 
